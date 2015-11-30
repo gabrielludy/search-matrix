@@ -1,0 +1,7 @@
+INSTRUÇÕES
+
+(Na pasta do trabalho)
+Para compilar: 
+	gcc main.c -o main
+Para rodar: 
+	./main
